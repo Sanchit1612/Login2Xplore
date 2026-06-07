@@ -72,6 +72,8 @@ Relation Name:
 STUDENT-TABLE
 ```
 
+<img width="1690" height="751" alt="image" src="https://github.com/user-attachments/assets/c5eb0e5d-77d2-44fd-bfd7-c7cfd0677a7d" />
+
 
 ## Example Record
 <img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/966ddda4-0316-46b9-a9d8-152655f672ef" />
