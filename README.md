@@ -74,15 +74,17 @@ STUDENT-TABLE
 
 
 ## Example Record
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/966ddda4-0316-46b9-a9d8-152655f672ef" />
+
 
 ```json
 {
     "Roll_No":"1",
-    "Full_Name":"Student Name",
-    "Class":"12",
-    "Birth_Date":"2005-01-01",
+    "Full_Name":"Test Student",
+    "Class":"BTech",
+    "Birth_Date":"2006-01-01",
     "Address":"Delhi",
-    "Enrollment_Date":"2026-06-07"
+    "Enrollment_Date":"2026-01-01"
 }
 ```
 
